@@ -22,7 +22,7 @@
 
 ## 지식공유자
 
-###yagom  
+### yagom  
 
 * [Blog](http://blog.yagom.net)
 * [Facebook](https://fb.com/yagomsoft)
@@ -36,148 +36,50 @@
 
 ### 목차
 
-* [강좌소개](#강좌소개)
-* [이름짓기, 콘솔로그, 문자열 보간법](#이름짓기,-콘솔로그,-문자열-보간법)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+* [강좌소개](#시작하며)
+* [이름짓기, 콘솔로그, 문자열 보간법](#시작하며)
+* [상수와 변수](#상수와-변수)
+* [기본 데이터 타입](#기본-데이터-타입)
+* [Any, AnyObject, nil](#Any와-nil)
+* 
 
 
 
-#### 강좌소개
+#### 시작하며
+##### 강좌소개
 
-[![클릭하여 이동](http://img.youtube.com/vi/y_hbpNQat4o/0.jpg)](http://www.youtube.com/watch?v=y_hbpNQat4o "강좌소개")
+[![클릭하여 이동](http://img.youtube.com/vi/y_hbpNQat4o/0.jpg)](http://www.youtube.com/watch?v=y_hbpNQat4o "introduction")
 
 [PDF자료](https://github.com/yagom/swift_basic/raw/master/contents/00_introduction.pdf)
 
-#### 이름짓기, 콘솔로그, 문자열 보간법
+##### 이름짓기, 콘솔로그, 문자열 보간법
 
-[![클릭하여 이동](http://img.youtube.com/vi/y_hbpNQat4o/0.jpg)](http://www.youtube.com/watch?v=y_hbpNQat4o "강좌소개")
+[![클릭하여 이동](http://img.youtube.com/vi/8Xe_fr_WRgc/0.jpg)](http://www.youtube.com/watch?v=8Xe_fr_WRgc "console_log")
 
-[학](https://github.com/yagom/swift_basic/raw/master/contents/00_introduction.pdf)
+[학습자료](https://github.com/yagom/swift_basic/raw/master/contents/00_console_log/README.md), 
+[소스](https://github.com/yagom/swift_basic/raw/master/contents/00_console_log/console_log.swift)
 
+#### 상수와 변수
+[![클릭하여 이동](http://img.youtube.com/vi/umgxytoUdsE/0.jpg)](http://www.youtube.com/watch?v=umgxytoUdsE "let_var")
 
----
-layout: default
----
+[학습자료](https://github.com/yagom/swift_basic/raw/master/contents/01_ㅣlet_var/README.md), 
+[소스](https://github.com/yagom/swift_basic/raw/master/contents/01_let_var/let_var.swift)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#### 데이터 타입
 
-[Link to another page](another-page).
+##### 기본 데이터 타입
+[![클릭하여 이동](http://img.youtube.com/vi/3qu7gpzE9IE/0.jpg)](http://www.youtube.com/watch?v=3qu7gpzE9IE "data_types")
 
-There should be whitespace between paragraphs.
+[학습자료](https://github.com/yagom/swift_basic/raw/master/contents/02_data_types/README.md), 
+[소스](https://github.com/yagom/swift_basic/raw/master/contents/02_data_types/data_types.swift)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+##### Any와 nil
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+
+
+
+
