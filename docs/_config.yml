@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+
+title: yagom's Swift Basic
+description: 야곰의 스위프트 기본 문법 강좌입니다.
+
+show_downloads: false
+google_analytics: UA-97421875-1
