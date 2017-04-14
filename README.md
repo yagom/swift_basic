@@ -26,7 +26,7 @@ __[강의 페이지 링크](https://yagom.github.io/swift_basic)__
 
 ![yagom](images/yagom.png)
 
-###yagom  
+### yagom  
 * [Blog](http://blog.yagom.net)
 * [Facebook](https://fb.com/yagomsoft)
 * [Facebook Page](https://fb.com/yagompage)

@@ -36,23 +36,22 @@
 
 ### 목차
 
-* [강좌소개](#시작하며)
-* [이름짓기, 콘솔로그, 문자열 보간법](#시작하며)
+* [강좌소개](#강좌소개)
+* [이름짓기, 콘솔로그, 문자열 보간법](#이름짓기-콘솔로그-문자열-보간법)
 * [상수와 변수](#상수와-변수)
 * [기본 데이터 타입](#기본-데이터-타입)
-* [Any, AnyObject, nil](#Any와-nil)
+* [Any, AnyObject, nil](#any-anyobject-nil)
 * 
 
 
 
-#### 시작하며
-##### 강좌소개
+#### 강좌소개
 
 [![클릭하여 이동](http://img.youtube.com/vi/y_hbpNQat4o/0.jpg)](http://www.youtube.com/watch?v=y_hbpNQat4o "introduction")
 
 [PDF자료](/contents/00_introduction.pdf)
 
-##### 이름짓기, 콘솔로그, 문자열 보간법
+#### 이름짓기, 콘솔로그, 문자열 보간법
 
 [![클릭하여 이동](http://img.youtube.com/vi/8Xe_fr_WRgc/0.jpg)](http://www.youtube.com/watch?v=8Xe_fr_WRgc "console_log")
 
@@ -67,13 +66,13 @@
 
 #### 데이터 타입
 
-##### 기본 데이터 타입
+#### 기본 데이터 타입
 [![클릭하여 이동](http://img.youtube.com/vi/3qu7gpzE9IE/0.jpg)](http://www.youtube.com/watch?v=3qu7gpzE9IE "data_types")
 
 [학습자료](/contents/02_data_types/README.md), 
 [소스](/contents/02_data_types/data_types.swift)
 
-##### Any와 nil
+#### Any, AnyObject, nil
 
 
 
