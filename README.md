@@ -20,8 +20,15 @@
 
 스위프트 언어 자체의 문법만을 다룹니다. iOS / macOS 등 애플리케이션 제작을 위한 프레임워크 관련한 내용은 다루지 않습니다.
 
+__[강의 페이지 링크](https://yagom.github.io/swift_basic)__
+
 ## 지식공유자
 
 ![yagom](images/yagom.png)
-yagom  
-[Blog](http://blog.yagom.net)
+
+###yagom  
+* [Blog](http://blog.yagom.net)
+* [Facebook](https://fb.com/yagomsoft)
+* [Facebook Page](https://fb.com/yagompage)
+* [Facebook Group](https://fb.com/groups/yagom)
+* [Contacts](https://yagom.github.io/contacts)
