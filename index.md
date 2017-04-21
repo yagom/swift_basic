@@ -41,7 +41,7 @@
 * [상수와 변수](#상수와-변수)
 * [기본 데이터 타입](#기본-데이터-타입)
 * [Any, AnyObject, nil](#any-anyobject-nil)
-* 
+* [컬렉션 타입](#컬렉션-타입)
 
 
 
@@ -61,7 +61,7 @@
 #### 상수와 변수
 [![클릭하여 이동](http://img.youtube.com/vi/umgxytoUdsE/0.jpg)](http://www.youtube.com/watch?v=umgxytoUdsE "let_var")
 
-[학습자료](/contents/01_ㅣlet_var/README.md), 
+[학습자료](/contents/01_let_var/README.md), 
 [소스](/contents/01_let_var/let_var.swift)
 
 #### 데이터 타입
@@ -73,7 +73,16 @@
 [소스](/contents/02_data_types/data_types.swift)
 
 #### Any, AnyObject, nil
+[![클릭하여 이동](http://img.youtube.com/vi/1QV4-B5ibd4/0.jpg)](http://www.youtube.com/watch?v=1QV4-B5ibd4 "any_anyobject_nil")
 
+[학습자료](/contents/02_data_types/README.md), 
+[소스](/contents/02_data_types/any_anyobject_nil.swift)
+
+#### 컬렉션 타입
+[![클릭하여 이동](http://img.youtube.com/vi/FWFbZGoQPUI/0.jpg)](http://www.youtube.com/watch?v=FWFbZGoQPUI "collection_types")
+
+[학습자료](/contents/03_collection_types/README.md), 
+[소스](/contents/03_collection_types/collection_types.swift)
 
 
 
