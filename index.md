@@ -45,7 +45,7 @@
 * [함수 기본](#함수-기본)
 * [함수 고급](#함수-고급)
 * [조건문](#조건문)
-<!--* [반복문](#반복문)-->
+* [반복문](#반복문)
 
 
 
@@ -111,11 +111,11 @@
 
 
 
-<!--#### 반복문
-[![클릭하여 이동](http://img.youtube.com/vi/TkM2Xcnt2Xk/0.jpg)](http://www.youtube.com/watch?v=TkM2Xcnt2Xk "loop")
+#### 반복문
+[![클릭하여 이동](http://img.youtube.com/vi/9QEiAzui0-s/0.jpg)](http://www.youtube.com/watch?v=9QEiAzui0-s "loop")
 
 [학습자료](/contents/06_loop/README.md), 
-[소스](/contents/06_loop/loop.swift)-->
+[소스](/contents/06_loop/loop.swift)
 
 
 
