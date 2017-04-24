@@ -42,6 +42,10 @@
 * [기본 데이터 타입](#기본-데이터-타입)
 * [Any, AnyObject, nil](#any-anyobject-nil)
 * [컬렉션 타입](#컬렉션-타입)
+* [함수 기본](#함수-기본)
+* [함수 고급](#함수-고급)
+* [조건문](#조건문)
+<!--* [반복문](#반복문)-->
 
 
 
@@ -85,8 +89,33 @@
 [소스](/contents/03_collection_types/collection_types.swift)
 
 
+#### 함수 기본
+[![클릭하여 이동](http://img.youtube.com/vi/TkM2Xcnt2Xk/0.jpg)](http://www.youtube.com/watch?v=TkM2Xcnt2Xk "function_basic")
+
+[학습자료](/contents/04_function/README.md), 
+[소스](/contents/04_function/function.swift)
 
 
+#### 함수 고급
+[![클릭하여 이동](http://img.youtube.com/vi/0sMRDBv3HtU/0.jpg)](http://www.youtube.com/watch?v=0sMRDBv3HtU "function_advance")
+
+[학습자료](/contents/04_function/README.md), 
+[소스](/contents/04_function/function.swift)
+
+
+#### 조건문
+[![클릭하여 이동](http://img.youtube.com/vi/TmO3cTiJDIc/0.jpg)](http://www.youtube.com/watch?v=TmO3cTiJDIc "conditional")
+
+[학습자료](/contents/05_conditional/README.md), 
+[소스](/contents/05_conditional/conditional.swift)
+
+
+
+<!--#### 반복문
+[![클릭하여 이동](http://img.youtube.com/vi/TkM2Xcnt2Xk/0.jpg)](http://www.youtube.com/watch?v=TkM2Xcnt2Xk "loop")
+
+[학습자료](/contents/06_loop/README.md), 
+[소스](/contents/06_loop/loop.swift)-->
 
 
 
