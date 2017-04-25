@@ -46,6 +46,8 @@
 * [함수 고급](#함수-고급)
 * [조건문](#조건문)
 * [반복문](#반복문)
+* [옵셔널](#옵셔널)
+* [옵셔널 값 추출](#옵셔널-값-추출)
 
 
 
@@ -110,12 +112,26 @@
 [소스](/contents/05_conditional/conditional.swift)
 
 
-
 #### 반복문
 [![클릭하여 이동](http://img.youtube.com/vi/9QEiAzui0-s/0.jpg)](http://www.youtube.com/watch?v=9QEiAzui0-s "loop")
 
 [학습자료](/contents/06_loop/README.md), 
 [소스](/contents/06_loop/loop.swift)
+
+
+#### 옵셔널
+[![클릭하여 이동](http://img.youtube.com/vi/RxScvfe1dyU/0.jpg)](http://www.youtube.com/watch?v=RxScvfe1dyU "optional")
+
+[학습자료](/contents/07_optional/optional.pdf), 
+[소스](/contents/07_optional/optional.swift)
+
+
+#### 옵셔널 값 추출
+[![클릭하여 이동](http://img.youtube.com/vi/YBofMKyfDaQ/0.jpg)](http://www.youtube.com/watch?v=YBofMKyfDaQ "optional_unwrapping")
+
+[학습자료](/contents/07_optional/optional_unwrapping.pdf), 
+[소스](/contents/07_optional/optional_unwrapping.swift)
+
 
 
 
