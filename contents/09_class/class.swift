@@ -88,6 +88,7 @@ class Student {
     var `class`: String = "Swift"
     
     // 타입 메서드
+
     class func selfIntroduce() {
         print("학생타입입니다")
     }

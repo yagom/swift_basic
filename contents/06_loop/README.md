@@ -4,6 +4,12 @@
 * while
 * repeat-while
 
+
+[![클릭하여 이동](http://img.youtube.com/vi/9QEiAzui0-s/0.jpg)](http://www.youtube.com/watch?v=9QEiAzui0-s "loop")
+
+[소스코드](loop.swift)
+
+
 ## for-in 구문
 
 기존 언어의 for-each 구문과 유사합니다. Dictionary의 경우 이터레이션 아이템으로 튜플이 들어옵니다. 튜플에 관해서는 [Swift Language Guide의 Tuples 부분](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)을 참고하면 되겠습니다.

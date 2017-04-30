@@ -2,6 +2,12 @@
 
 작성자 : [yagom](http://blog.yagom.net)
 
+
+[![클릭하여 이동](http://img.youtube.com/vi/8Xe_fr_WRgc/0.jpg)](http://www.youtube.com/watch?v=8Xe_fr_WRgc "console_log")
+
+[소스코드](console_log.swift)
+
+
 ## 이름짓기 규칙
 
 ### Lower Camel Case

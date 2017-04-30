@@ -1,4 +1,10 @@
 # 상수, 변수의 선언
+
+[![클릭하여 이동](http://img.youtube.com/vi/umgxytoUdsE/0.jpg)](http://www.youtube.com/watch?v=umgxytoUdsE "let_var")
+
+[소스코드](let_var.swift)
+
+
 * 상수 선언 키워드 __let__
 * 변수 선언 키워드 __var__
 

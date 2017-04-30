@@ -1,5 +1,15 @@
 # 컬렉션 타입
 
+* Array
+* Dictionary
+* Set
+
+
+[![클릭하여 이동](http://img.youtube.com/vi/FWFbZGoQPUI/0.jpg)](http://www.youtube.com/watch?v=FWFbZGoQPUI "collection_types")
+
+[소스코드](collection_types.swift)
+
+
 | 타입 | 설명 |
 |:------|:------|  
 | Array | 순서가 있는 리스트 컬렉션 |  

@@ -1,5 +1,10 @@
 # 함수
 
+[![클릭하여 이동](http://img.youtube.com/vi/TkM2Xcnt2Xk/0.jpg)](http://www.youtube.com/watch?v=TkM2Xcnt2Xk "function_basic")
+
+[소스](function.swift)
+
+
 ## 함수의 선언
 
 ### 함수선언의 기본형태
@@ -92,6 +97,10 @@ hello() // hello
 
 bye() // bye
 ```
+
+
+[![클릭하여 이동](http://img.youtube.com/vi/0sMRDBv3HtU/0.jpg)](http://www.youtube.com/watch?v=0sMRDBv3HtU "function_advance")
+
 
 ## 매개변수 기본 값
 매개변수에 기본적으로 전달될 값을 미리 지정할 수 있습니다

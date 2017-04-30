@@ -36,101 +36,20 @@
 
 ### 목차
 
-* [강좌소개](#강좌소개)
-* [이름짓기, 콘솔로그, 문자열 보간법](#이름짓기-콘솔로그-문자열-보간법)
-* [상수와 변수](#상수와-변수)
-* [기본 데이터 타입](#기본-데이터-타입)
-* [Any, AnyObject, nil](#any-anyobject-nil)
-* [컬렉션 타입](#컬렉션-타입)
-* [함수 기본](#함수-기본)
-* [함수 고급](#함수-고급)
-* [조건문](#조건문)
-* [반복문](#반복문)
-* [옵셔널](#옵셔널)
-* [옵셔널 값 추출](#옵셔널-값-추출)
-
-
-
-#### 강좌소개
-
-[![클릭하여 이동](http://img.youtube.com/vi/y_hbpNQat4o/0.jpg)](http://www.youtube.com/watch?v=y_hbpNQat4o "introduction")
-
-[PDF자료](/contents/00_introduction.pdf)
-
-#### 이름짓기, 콘솔로그, 문자열 보간법
-
-[![클릭하여 이동](http://img.youtube.com/vi/8Xe_fr_WRgc/0.jpg)](http://www.youtube.com/watch?v=8Xe_fr_WRgc "console_log")
-
-[학습자료](/contents/00_console_log/README.md), 
-[소스](/contents/00_console_log/console_log.swift)
-
-#### 상수와 변수
-[![클릭하여 이동](http://img.youtube.com/vi/umgxytoUdsE/0.jpg)](http://www.youtube.com/watch?v=umgxytoUdsE "let_var")
-
-[학습자료](/contents/01_let_var/README.md), 
-[소스](/contents/01_let_var/let_var.swift)
-
-#### 데이터 타입
-
-#### 기본 데이터 타입
-[![클릭하여 이동](http://img.youtube.com/vi/3qu7gpzE9IE/0.jpg)](http://www.youtube.com/watch?v=3qu7gpzE9IE "data_types")
-
-[학습자료](/contents/02_data_types/README.md), 
-[소스](/contents/02_data_types/data_types.swift)
-
-#### Any, AnyObject, nil
-[![클릭하여 이동](http://img.youtube.com/vi/1QV4-B5ibd4/0.jpg)](http://www.youtube.com/watch?v=1QV4-B5ibd4 "any_anyobject_nil")
-
-[학습자료](/contents/02_data_types/README.md), 
-[소스](/contents/02_data_types/any_anyobject_nil.swift)
-
-#### 컬렉션 타입
-[![클릭하여 이동](http://img.youtube.com/vi/FWFbZGoQPUI/0.jpg)](http://www.youtube.com/watch?v=FWFbZGoQPUI "collection_types")
-
-[학습자료](/contents/03_collection_types/README.md), 
-[소스](/contents/03_collection_types/collection_types.swift)
-
-
-#### 함수 기본
-[![클릭하여 이동](http://img.youtube.com/vi/TkM2Xcnt2Xk/0.jpg)](http://www.youtube.com/watch?v=TkM2Xcnt2Xk "function_basic")
-
-[학습자료](/contents/04_function/README.md), 
-[소스](/contents/04_function/function.swift)
-
-
-#### 함수 고급
-[![클릭하여 이동](http://img.youtube.com/vi/0sMRDBv3HtU/0.jpg)](http://www.youtube.com/watch?v=0sMRDBv3HtU "function_advance")
-
-[학습자료](/contents/04_function/README.md), 
-[소스](/contents/04_function/function.swift)
-
-
-#### 조건문
-[![클릭하여 이동](http://img.youtube.com/vi/TmO3cTiJDIc/0.jpg)](http://www.youtube.com/watch?v=TmO3cTiJDIc "conditional")
-
-[학습자료](/contents/05_conditional/README.md), 
-[소스](/contents/05_conditional/conditional.swift)
-
-
-#### 반복문
-[![클릭하여 이동](http://img.youtube.com/vi/9QEiAzui0-s/0.jpg)](http://www.youtube.com/watch?v=9QEiAzui0-s "loop")
-
-[학습자료](/contents/06_loop/README.md), 
-[소스](/contents/06_loop/loop.swift)
-
-
-#### 옵셔널
-[![클릭하여 이동](http://img.youtube.com/vi/RxScvfe1dyU/0.jpg)](http://www.youtube.com/watch?v=RxScvfe1dyU "optional")
-
-[학습자료](/contents/07_optional/optional.pdf), 
-[소스](/contents/07_optional/optional.swift)
-
-
-#### 옵셔널 값 추출
-[![클릭하여 이동](http://img.youtube.com/vi/YBofMKyfDaQ/0.jpg)](http://www.youtube.com/watch?v=YBofMKyfDaQ "optional_unwrapping")
-
-[학습자료](/contents/07_optional/optional_unwrapping.pdf), 
-[소스](/contents/07_optional/optional_unwrapping.swift)
+* [강좌소개](/contents/00_introduction/README.md)
+* [이름짓기, 콘솔로그, 문자열 보간법](/contents/00_introduction/console_log/README.md)
+* [상수와 변수](/contents/01_let_var/README.md)
+* [기본 데이터 타입](/contents/02_data_types/README.md)
+* [Any, AnyObject, nil](/contents/02_data_types/README.md)
+* [컬렉션 타입](/contents/03_collection_types/README.md)
+* [함수 기본](/contents/04_function/README.md)
+* [함수 고급](/contents/04_function/README.md)
+* [조건문](/contents/05_conditional/README.md)
+* [반복문](/contents/06_loop/README.md)
+* [옵셔널](/contents/07_optional/README.md)
+* [구조체](/contents/08_struct/README.md)
+* [클래스](/contents/09_class/README.md)
+* [열거형](/contents/10_enum/README.md)
 
 
 

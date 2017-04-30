@@ -5,6 +5,10 @@
 * Float, Double
 * Character, String
 
+[![클릭하여 이동](http://img.youtube.com/vi/3qu7gpzE9IE/0.jpg)](http://www.youtube.com/watch?v=3qu7gpzE9IE "data_types")
+
+[소스코드](data_types.swift)
+
 ## Bool
 `true`와 `false`만을 값으로 가지는 타입
 
@@ -96,6 +100,10 @@ let apple = "A"
 * Any
 * AnyObject
 * nil
+
+[![클릭하여 이동](http://img.youtube.com/vi/1QV4-B5ibd4/0.jpg)](http://www.youtube.com/watch?v=1QV4-B5ibd4 "any_anyobject_nil")
+
+[소스](any_anyobject_nil.swift)
 
 ## Any
 

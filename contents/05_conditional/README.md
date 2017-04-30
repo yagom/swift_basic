@@ -3,6 +3,12 @@
 * if-else
 * switch
 
+
+[![클릭하여 이동](http://img.youtube.com/vi/TmO3cTiJDIc/0.jpg)](http://www.youtube.com/watch?v=TmO3cTiJDIc "conditional")
+
+[소스코드](conditional.swift)
+
+
 ## if-else 구문
 
 ### if-else 구문의 기본 형태
