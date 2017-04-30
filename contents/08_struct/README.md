@@ -1,8 +1,12 @@
 # 구조체
 
-스위프트 대부분의 타입은 구조체로 이루어져 있습니다. 구조체는 값 타입입니다. 타입이름은 대문자 카멜케이스를 사용하여 정의합니다.
+[![클릭하여 이동](http://img.youtube.com/vi/0ZF5lhpEcC8/0.jpg)](http://www.youtube.com/watch?v=0ZF5lhpEcC8 "struct")
+
+[소스코드](struct.swift)
+
 
 ## 정의 문법
+스위프트 대부분의 타입은 구조체로 이루어져 있습니다. 구조체는 값 타입입니다. 타입이름은 대문자 카멜케이스를 사용하여 정의합니다.
 
 ```swift
 struct 이름 {

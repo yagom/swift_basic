@@ -1,8 +1,11 @@
 # 클래스
 
-클래스는 참조 타입입니다. 타입이름은 대문자 카멜케이스를 사용하여 정의합니다.
+[![클릭하여 이동](http://img.youtube.com/vi/mV3wZ0tM_bk/0.jpg)](http://www.youtube.com/watch?v=mV3wZ0tM_bk "class")
+
+[소스코드](class.swift)
 
 ## 정의 문법
+클래스는 참조 타입입니다. 타입이름은 대문자 카멜케이스를 사용하여 정의합니다.
 
 ```swift
 class 이름 {
