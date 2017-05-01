@@ -50,7 +50,30 @@
 * [구조체](/contents/08_struct/README.md)
 * [클래스](/contents/09_class/README.md)
 * [열거형](/contents/10_enum/README.md)
+* [값 타입과 참조 타입](/contents/11_value_reference/README.md)
+* [클로저](/contents/12_closure/README.md)
 
+<!--
+* [프로퍼티](/contents/13_property/README.md)
+<!--
+* [상속](/contents/14_inheritance/README.md)
+<!--
+* [init과 deinit](/contents/15_init_deinit/README.md)
+<!--
+* [옵셔널 체이닝](/contents/16_optional_chaining/README.md)
+<!--
+* [타입 캐스팅](/contents/17_type_casting/README.md)
+<!--
+* [guard와 assert](/contents/18_early_exit/README.md)
+<!--
+* [익스텐션](/contents/19_extension/README.md)
+<!--
+* [프로토콜](/contents/20_protocol/README.md)
+<!--
+* [오류처리](/contents/21_error_handling/README.md)
+<!--
+* [고차함수](/contents/22_higher_order_function/README.md)
+-->
 
 
 
