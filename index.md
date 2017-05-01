@@ -52,9 +52,8 @@
 * [열거형](/contents/10_enum/README.md)
 * [값 타입과 참조 타입](/contents/11_value_reference/README.md)
 * [클로저](/contents/12_closure/README.md)
-
-<!--
 * [프로퍼티](/contents/13_property/README.md)
+
 <!--
 * [상속](/contents/14_inheritance/README.md)
 <!--

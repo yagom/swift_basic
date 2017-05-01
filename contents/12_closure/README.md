@@ -88,7 +88,7 @@ print(calculated) // 500
 전달인자의 이름이 굳이 필요없고, 컴파일러가 타입을 유추할 수 있는 경우 축약된 전달인자 이름(`$0`, `$1`, `$2`...)을 사용 할 수 있습니다.
 
 
-[![클릭하여 이동](http://img.youtube.com/vi/WvqYKP6VgNQ/0.jpg)](http://www.youtube.com/watch?v=WvqYKP6VgNQ "closure")
+[![클릭하여 이동](http://img.youtube.com/vi/WvqYKP6VgNQ/0.jpg)](http://www.youtube.com/watch?v=WvqYKP6VgNQ "closure_advanced")
 
 [소스코드](closure.swift)
 
