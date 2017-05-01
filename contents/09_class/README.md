@@ -126,3 +126,7 @@ jina.selfIntroduce() // 저는 Swift반 jina입니다
 
 ```
 
+
+## 관련문서
+
+* [The Swift Programming Language - Classes and Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)

@@ -21,6 +21,7 @@
 
 ```Swift는 모든 대소문자를 구분합니다.```
 
+
 ## 콘솔로그 남기기
 > print 함수
 > > 단순 문자열 출력
@@ -34,3 +35,8 @@
 프로그램 실행 중 문자열 내에 변수 또는 상수의 실질적인 값을 표현하기 위해 사용합니다.
 
 `\()`
+
+
+## 관련 문서
+* [Swift API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
+* [The Swift Programming Language - Strings and Characters](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html#//apple_ref/doc/uid/TP40014097-CH7-ID292)

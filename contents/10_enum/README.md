@@ -137,3 +137,7 @@ enum Month {
 
 Month.mar.printMessage()
 ```
+
+## 관련문서
+
+* [The Swift Programming Language - Enumerations](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)

@@ -96,3 +96,8 @@ default:
 ```
 
 > 기본 문법을 익힌 뒤 차후에 더 많은 switch 구문과 패턴의 활용에 대해 알아봅시다
+
+
+## 관련문서
+
+* [The Swift Programming Language - Control Flow](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html)

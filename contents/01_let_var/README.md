@@ -49,7 +49,6 @@ nickName = "yagom"
 nickName = "야곰"
 ```
 
-
 ## 생각해보기
 
 다음과 같은 경우에 각 값은 상수와 변수 중 어느 것으로 선언하는 것이 더 좋을지 생각해 봅시다.
@@ -60,3 +59,8 @@ OOO numberToAdd = 5
 OOO pi = 3.14195
 OOO maxItemCount = 1000
 ```
+
+## 관련문서
+
+* [The Swift Programming Language - The Basics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
+

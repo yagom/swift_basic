@@ -152,5 +152,22 @@ someAny = nil         // 컴파일 오류발생
 someAnyObject = nil   // 컴파일 오류발생
 ```
 
+## 생각해보기
 
+다음 코드에서 integer, floatingPoint, apple 상수는 각각 어떤 타입이 될까요?  
+생각해보고 확인해보세요~!
+
+
+```swift
+let integer = 100
+let floatingPoint = 12.34
+let apple = "A"
+```
+
+`힌트 : type(of: )`
+
+
+## 관련문서
+
+* [The Swift Programming Language - The Basics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
 

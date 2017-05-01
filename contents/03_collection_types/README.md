@@ -134,3 +134,17 @@ let initalizedDictionary: [String: String] = ["name": "yagom", "gender": "male"]
 // 컴파일 오류가 발생합니다
 let someValue: String = initalizedDictionary["name"]
 ```
+
+## 생각해보기
+
+다음과 같은 경우에는 각각 어떤 컬렉션 타입을, 상수/변수 선언 중 어떤 것을 사용하면 유용할지 생각해 봅시다. 
+
+* 영어 알파벳 소문자를 모아두는 컬렉션
+* 책의 제목과 저자 정리를 위한 컬렉션
+* 우리반 학생 명부 작성을 위한 컬렉션
+
+
+
+## 관련문서
+
+* [The Swift Programming Language - Collection Types](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/CollectionTypes.html)
