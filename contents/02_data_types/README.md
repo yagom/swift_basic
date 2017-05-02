@@ -103,7 +103,7 @@ let apple = "A"
 
 [![클릭하여 이동](http://img.youtube.com/vi/1QV4-B5ibd4/0.jpg)](http://www.youtube.com/watch?v=1QV4-B5ibd4 "any_anyobject_nil")
 
-[소스](any_anyobject_nil.swift)
+[소스코드](any_anyobject_nil.swift)
 
 ## Any
 
@@ -151,20 +151,6 @@ someAnyObject = 123.12    // 컴파일 오류발생
 someAny = nil         // 컴파일 오류발생
 someAnyObject = nil   // 컴파일 오류발생
 ```
-
-## 생각해보기
-
-다음 코드에서 integer, floatingPoint, apple 상수는 각각 어떤 타입이 될까요?  
-생각해보고 확인해보세요~!
-
-
-```swift
-let integer = 100
-let floatingPoint = 12.34
-let apple = "A"
-```
-
-`힌트 : type(of: )`
 
 
 ## 관련문서

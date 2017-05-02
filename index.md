@@ -53,13 +53,12 @@
 * [값 타입과 참조 타입](/contents/11_value_reference/README.md)
 * [클로저](/contents/12_closure/README.md)
 * [프로퍼티](/contents/13_property/README.md)
-
-<!--
 * [상속](/contents/14_inheritance/README.md)
+
 <!--
 * [init과 deinit](/contents/15_init_deinit/README.md)
 <!--
-* [옵셔널 체이닝](/contents/16_optional_chaining/README.md)
+* [옵셔널 체이닝과 nil 병합 연산자](/contents/16_optional_chaining/README.md)
 <!--
 * [타입 캐스팅](/contents/17_type_casting/README.md)
 <!--
