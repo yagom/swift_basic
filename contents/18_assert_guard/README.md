@@ -35,6 +35,7 @@ functionWithAssert(age: 50)
 //functionWithAssert(age: nil) // 동작 중지, 검증 실패
 ```
 
+> `assert(_:_:file:line:)`와 같은 역할을 하지만 실제 배포 환경에서도 동작하는 `precondition(_:_:file:line:)` 함수도 있습니다. 함께 살펴보세요.
 
 ## 빠른 종료
 
