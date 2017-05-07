@@ -54,15 +54,11 @@
 * [클로저](/contents/12_closure/README.md)
 * [프로퍼티](/contents/13_property/README.md)
 * [상속](/contents/14_inheritance/README.md)
-
-<!--
-* [init과 deinit](/contents/15_init_deinit/README.md)
-<!--
+* [인스턴스의 생성과 소멸](/contents/15_init_deinit/README.md)
 * [옵셔널 체이닝과 nil 병합 연산자](/contents/16_optional_chaining/README.md)
-<!--
-* [타입 캐스팅](/contents/17_type_casting/README.md)
-<!--
-* [guard와 assert](/contents/18_early_exit/README.md)
+* [타입캐스팅](/contents/17_type_casting/README.md)
+* [assert와 guard](/contents/18_assert_guard/README.md)
+
 <!--
 * [익스텐션](/contents/19_extension/README.md)
 <!--
