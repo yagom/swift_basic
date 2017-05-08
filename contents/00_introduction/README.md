@@ -1,5 +1,5 @@
 # 강좌소개
 
-[![클릭하여 이동](http://img.youtube.com/vi/y_hbpNQat4o/0.jpg)](http://www.youtube.com/watch?v=y_hbpNQat4o "introduction")
+[![Swift - 강좌소개](https://i.ytimg.com/vi/y_hbpNQat4o/hqdefault.jpg)](https://www.youtube.com/embed/y_hbpNQat4o?autoplay=0 "Swift - 강좌소개")
 
 [PDF자료](00_introduction.pdf)
