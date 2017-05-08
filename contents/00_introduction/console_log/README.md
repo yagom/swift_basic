@@ -3,7 +3,7 @@
 작성자 : [yagom](http://blog.yagom.net)
 
 
-[![Swift - 이름짓기, 콘솔로그, 문자열 보간법](https://i.ytimg.com/vi/8Xe_fr_WRgc/hqdefault.jpg)](https://www.youtube.com/embed/8Xe_fr_WRgc?autoplay=1 "Swift - 이름짓기, 콘솔로그, 문자열 보간법")
+[![클릭하여 이동](http://img.youtube.com/vi/8Xe_fr_WRgc/0.jpg)](http://www.youtube.com/watch?v=8Xe_fr_WRgc "console_log")
 
 [소스코드](console_log.swift)
 
