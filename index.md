@@ -66,7 +66,4 @@
 * [익스텐션](/contents/20_extension/README.md)
 * [오류처리](/contents/21_error_handling/README.md)
 * [고차함수](/contents/22_higher_order_function/README.md)
-
-
-
-
+* [더 알아보기](/contents/23_more/README.md)
