@@ -66,7 +66,7 @@ repeat {
 } while 조건
 ```
 
-### while 구문의 사용
+### repeat-while 구문의 사용
 
 ```swift
 repeat {

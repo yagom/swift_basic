@@ -48,7 +48,6 @@ func printYourName(name: String) {
 ### 매개변수가 없는 함수
 
 ```swift
-MARK: 매개변수가 없는 함수
 func 함수이름() -> 반환타입 {
     /* 함수 구현부 */
     return 반환값
