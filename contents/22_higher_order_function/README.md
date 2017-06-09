@@ -153,4 +153,4 @@ print(sumFromThree) // 28
 
 
 ## 더 알아보기
-`flatmap`
+`flatMap`
