@@ -121,5 +121,5 @@ let sumFromThree = someNumbers.reduce(3) { $0 + $1 }
 print(sumFromThree) // 28
 
 /*
- 더 알아보기 : flatmap
+ 더 알아보기 : flatMap
  */
