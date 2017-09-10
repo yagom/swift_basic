@@ -118,12 +118,12 @@ var moneyInMyPocket = Money()
 moneyInMyPocket.won = 11000
 
 print(moneyInMyPocket.won)
-// 11000
+// 11000.0
 
 moneyInMyPocket.dollar = 10
 
 print(moneyInMyPocket.won)
-// 11000
+// 11000.0
 
 ```
 

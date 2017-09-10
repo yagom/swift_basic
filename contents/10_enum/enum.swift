@@ -27,7 +27,7 @@ enum Weekday {
 var day: Weekday = Weekday.mon
 day = .tue
 
-print(day)
+print(day) // tue
 
 switch day {
 case .mon, .tue, .wed, .thu:
@@ -37,6 +37,7 @@ case Weekday.fri:
 case .sat, .sun:
     print("신나는 주말!!")
 }
+// 평일입니다
 
 
 //MARK: - 원시값
@@ -49,7 +50,7 @@ enum Fruit: Int {
     case apple = 0
     case grape = 1
     case peach
-//    case mango = 0
+    //    case mango = 0
 }
 
 print("Fruit.peach.rawValue == \(Fruit.peach.rawValue)")
@@ -111,3 +112,4 @@ enum Month {
 }
 
 Month.mar.printMessage()
+// 따스한 봄~

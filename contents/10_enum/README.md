@@ -52,6 +52,7 @@ case Weekday.fri:
 case .sat, .sun:
     print("신나는 주말!!")
 }
+// 평일입니다
 ```
 
 ## 원시값
@@ -136,6 +137,7 @@ enum Month {
 }
 
 Month.mar.printMessage()
+// 따스한 봄~
 ```
 
 ## 관련문서

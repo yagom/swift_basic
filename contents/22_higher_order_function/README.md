@@ -151,6 +151,11 @@ print(sumFromThree) // 28
 ```
 
 
+-----
+
+`reduce` 메서드에 전달하는 클로저의 매개변수 이름을 `first`, `second` 보다는 `result`, `currentItem`과 같은 이름으로 정정하는 것이 좋겠습니다. 첫 번째 매개변수는 초깃값으로부터 출발하여 마지막 요소까지 순회하는 내내의 결괏값입니다. `currentItem`은 현재 순회하고 있는 요소의 값을 뜻합니다. 결국 `return result + currentItem`이라고 표현한다면 이제까지 더해진 결괏값에 이번 요소의 값을 더한다는 뜻이 되겠습니다.
+
+------
 
 ## 더 알아보기
 `flatMap`

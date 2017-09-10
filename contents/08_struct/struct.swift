@@ -36,8 +36,6 @@ struct Sample {
 // 가변 인스턴스
 var mutable: Sample = Sample()
 
-mutable.mutableProperty = 200
-
 // 불변 프로퍼티는 인스턴스 생성 후 수정할 수 없습니다
 // 컴파일 오류 발생
 //mutable.immutableProperty = 200

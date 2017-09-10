@@ -104,15 +104,15 @@ struct Money {
 
 var moneyInMyPocket = Money()
 
-moneyInMyPocket.won = 11000
+moneyInMyPocket.won = 11000.0
 
 print(moneyInMyPocket.won)
-// 11000
+// 11000.0
 
 moneyInMyPocket.dollar = 10
 
 print(moneyInMyPocket.won)
-// 11000
+// 11000.0
 
 
 //MARK: - 지역변수, 전역변수
@@ -181,17 +181,17 @@ struct MoneyAgain {
 
 //MARK: - 사용
 
-var moneyInMyPocket: MoneyAgain = MoneyAgain()
+var moneyInMyPocketAgain: MoneyAgain = MoneyAgain()
 
 // 환율이 1100.0에서 1150.0으로 변경될 예정입니다
-moneyInMyPocket.currencyRate = 1150
+moneyInMyPocketAgain.currencyRate = 1150
 // 환율이 1100.0에서 1150.0으로 변경되었습니다
 
 // 0.0달러에서 10.0달러로 변경될 예정입니다
-moneyInMyPocket.dollar = 10
+moneyInMyPocketAgain.dollar = 10
 // 0.0달러에서 10.0달러로 변경되었습니다
 
-print(moneyInMyPocket.won)
+print(moneyInMyPocketAgain.won)
 // 11500.0
 
 
