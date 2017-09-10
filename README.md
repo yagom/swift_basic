@@ -16,7 +16,7 @@
 해당 강의는 **Swift 4.0 버전이 기준**입니다.
 다른 버전의 문법은 상이할 수 있으니 [Swift 가이드 문서 변경 내역](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html)을 참고하면 좋습니다.
 
-또, **스위프트의 [API 가이드라인](https://swift.org/documentation/api-design-guidelines/) **에 따라 이름을 짓는 것이 좋습니다.
+또, **스위프트의 [API 가이드라인](https://swift.org/documentation/api-design-guidelines/)** 에 따라 이름을 짓는 것이 좋습니다.
 
 **스위프트 언어 자체의 문법과 활용만을 다룹니다.** iOS / macOS 등 애플리케이션 제작을 위한 프레임워크 관련한 내용은 다루지 않습니다.
 
