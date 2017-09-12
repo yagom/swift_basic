@@ -144,10 +144,10 @@ greeting(to: "hana", from: "yagom") // Hello hana! I'm yagom
 > 가변 매개변수는 함수당 하나만 가질 수 있습니다
 
 ```swift
-//func 함수이름(매개변수1이름: 매개변수1타입, 전달인자 레이블 매개변수2이름: 매개변수2타입...) -> 반환타입 {
-//    /* 함수 구현부 */
-//    return
-//}
+func 함수이름(매개변수1이름: 매개변수1타입, 전달인자 레이블 매개변수2이름: 매개변수2타입...) -> 반환타입 {
+    /* 함수 구현부 */
+    return
+}
 
 func sayHelloToFriends(me: String, friends: String...) -> String {
     return "Hello \(friends)! I'm \(me)!"

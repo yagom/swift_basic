@@ -43,8 +43,6 @@ var mutable: Sample = Sample()
 // 불변 인스턴스
 let immutable: Sample = Sample()
 
-immutable.mutableProperty = 200
-
 // 불변 인스턴스는 아무리 가변 프로퍼티라도
 // 인스턴스 생성 후에 수정할 수 없습니다
 // 컴파일 오류 발생
