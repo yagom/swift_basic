@@ -22,6 +22,6 @@
 
 ## 관련저서
 
-![스위프트 프로그래밍](http://www.hanbit.co.kr/data/books/B5682208459_l.jpg)
+![스위프트 프로그래밍](http://www.hanbit.co.kr/data/books/B2206901403_l.jpg)
 
-[스위프트 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=11445773)
+[스위프트 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=12571019)
