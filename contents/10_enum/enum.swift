@@ -69,7 +69,7 @@ print("School.middle.rawValue == \(School.middle.rawValue)")
 // School.middle.rawValue == 중등
 
 print("School.university.rawValue == \(School.university.rawValue)")
-// School.middle.rawValue == university
+// School.university.rawValue == university
 
 
 //MARK: 원시값을 통한 초기화
