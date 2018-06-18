@@ -39,7 +39,7 @@ class Person {
     // 재정의 가능한 class 메서드라도 
     // final 키워드를 사용하면 재정의 할 수 없습니다
     // 메서드 앞의 `static`과 `final class`는 똑같은 역할을 합니다
-    final class func finalCalssMethod() {
+    final class func finalClassMethod() {
         print("type method - final class")
     }
 }
@@ -83,7 +83,7 @@ Person.classMethod()
 Person.typeMethod()
 // type method - static
 
-Person.finalCalssMethod()
+Person.finalClassMethod()
 // type method - final class
 
 
@@ -93,5 +93,5 @@ Student.classMethod()
 Student.typeMethod()
 // type method - static
 
-Student.finalCalssMethod()
+Student.finalClassMethod()
 // type method - final class
