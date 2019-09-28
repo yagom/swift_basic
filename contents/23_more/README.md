@@ -8,6 +8,9 @@
 * ARC(Automatic Reference Counting)
 * 중첩타입(Nested Types)
 * 사용자정의 연산자(Custom Operators)
+* 오류 처리(Error Handling)
+* 불명확 타입(Opaque Types)
+* 프로토콜 지향 프로그래밍(Protocol Oriented Programming)
 
 스위프트 기본문법 강좌는 여기서 마칩니다. 많은 도움이 되었길 소망합니다.
 
@@ -22,6 +25,6 @@
 
 ## 관련저서
 
-![스위프트 프로그래밍](http://www.hanbit.co.kr/data/books/B2206901403_l.jpg)
+![스위프트 프로그래밍](http://www.hanbit.co.kr/data/books/B9421379018_l.jpg)
 
-[스위프트 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=12571019)
+[스위프트 프로그래밍](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B9421379018)
