@@ -38,7 +38,7 @@
 
 <div class="g-ytsubscribe" data-channelid="UCkwWWEv3C-3ToeO57r5LCHQ" data-layout="full" data-count="hidden"></div>
 
-또, [구름EDU](https://edu.goorm.io/lecture/1141/%EC%95%BC%EA%B3%B0%EC%9D%98-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)와 [인프런](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95/)에서도 수강하실 수 있습니다.
+또, [야곰닷넷 - yagom.net](https://yagom.github.io/swift_basic/), [구름EDU](https://edu.goorm.io/lecture/1141/%EC%95%BC%EA%B3%B0%EC%9D%98-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D), [인프런](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95/)에서도 수강하실 수 있습니다.
 
 ### 목차
 
