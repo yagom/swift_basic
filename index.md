@@ -30,6 +30,11 @@
 * [Facebook Group](https://fb.com/groups/yagom)
 * [Contacts](https://yagom.github.io/contacts)
 
+야곰의 콘텐츠가 유익한가요? 여러분의 후원은 더 나은 콘텐츠의 자양분입니다 :D  
+**후원하기** : <https://www.payapp.kr/L/z20sQ3>  
+
+<img src="https://www.payapp.kr/image/qr/478444" width="200px" height="200px">
+
 ## 강의 목록
 
 > 강의 영상은 [유투브 채널](https://www.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ)을 구독하시면 업데이트 때마다 받아보실 수 있습니다
